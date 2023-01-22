@@ -8,7 +8,7 @@
 💻 I'm always trying to learn new things: right now, I'm working with C and C++. 
 </p>
 <p align="center">
-🕵🏻‍♂️ Right now, I'm interested in Full Stack.
+🕵🏻‍♂️ Right now, I'm studying Data Analysis by my own.
 </p>
 
 <br/>
