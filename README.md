@@ -1,5 +1,5 @@
 
-### <div align="center"><h1>I'm Paco👤, Telecommunications Engineer and student at 42 Malaga.<h1>
+### <div align="center"><h1>I'm Paco👤, Sound and Image Engineer and student at 42 Malaga.<h1>
 </div>  
 <p align="center">
 🧑🏻‍💻 I’m currently working on the project "minitalk".
@@ -56,8 +56,8 @@ Libft [![fgalan-n's 42 Libft Score](https://badge42.vercel.app/api/v2/clcosxocf0
 <br/>  
 
 
-## <div align="center">Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fjgalan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<! –– ## <div align="center">Github Stats  ––>
+<! –– <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fjgalan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  ––>
 
 <br/>  
 
