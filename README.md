@@ -5,10 +5,10 @@
 🧑🏻‍💻 I’m currently working on the project "minitalk".
 </p>
 <p align="center">
-💻 I'm always trying to learn new things: right now, I'm working with C and C++. 
+💻 Right now, I'm improving my C++ skills. 
 </p>
 <p align="center">
-🕵🏻‍♂️ I'm studying Data Analysis by my own too.
+🕵🏻‍♂️ I'm always trying to learn new things!
 </p>
 
 <br/>
