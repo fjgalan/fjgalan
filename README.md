@@ -1,9 +1,11 @@
 
 ### <div align="center"><h1>I'm Paco👤, Sound and Image Engineer and student at 42 Malaga.<h1>
-</div>  
+</div>
+ <!--
 <p align="center">
 🧑🏻‍💻 I’m currently working on the project "minitalk".
 </p>
+-->
 <p align="center">
 💻 Right now, I'm improving my C++ skills. 
 </p>
