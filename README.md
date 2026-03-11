@@ -1,5 +1,5 @@
 
-### <div align="center"><h1>I'm Paco👤, Sound and Image Engineer and student at 42 Malaga.<h1>
+### <div align="center"><h1>I'm Paco👤, Sound and Image Engineer.<h1>
 </div>
  <!--
 <p align="center">
@@ -10,7 +10,7 @@
 💻 Right now, I'm improving my C++ skills. 
 </p>
 <p align="center">
-🕵🏻‍♂️ I'm always trying to learn new things!
+🕵🏻‍♂️ Always learning
 </p>
 
 <br/>
