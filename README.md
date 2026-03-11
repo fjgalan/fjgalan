@@ -6,10 +6,10 @@
 🧑🏻‍💻 I’m currently working on the project "minitalk".
 </p>
 -->
-<p align="center">
+<!--<p align="center">
 💻 Right now, I'm improving my C++ skills. 
 </p>
-<p align="center">
+<p align="center">-->
 🕵🏻‍♂️ Always learning
 </p>
 
